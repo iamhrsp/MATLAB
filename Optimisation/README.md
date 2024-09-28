@@ -11,7 +11,7 @@
 - **Key Concepts**: Quadratic programming, revenue and cost functions, profit maximization.
 
 ### Problem 3: Global Optimization
-- **Data**: Non-convex function minimization.
+- **Data**: Non-convex function `hills(x)` minimization.
 - **Goal**: Minimize the function using genetic algorithms (`ga`), and compare different crossover functions.
 - **Key Concepts**: Global optimization, genetic algorithms, crossover function comparison.
 
