@@ -1,1 +1,6 @@
-
+- **Techniques used**: 
+- Used `subplot()` to create separate axes for each function.
+- Used `gscatter()` for color-coded scatter plot.
+- Used `polarplot()` and calculated area with numerical integration.
+- Plotted the 3D surface using `surf()`.
+- Implemented the `smoothstep(left, right, x)` function to achieve a gradual transition between two values.
