@@ -1,6 +1,6 @@
 # Machine Learning Problems
 
-This repository contains solutions to machine learning assignments from the **Mathematical Computing course**. The assignments demonstrate the application of various machine learning techniques such as clustering, classification, regression, and neural networks. The project files and the complete problem statements can be found in the projectFiles folder.
+This repository contains solutions to machine learning assignments from the **Mathematical Computing course**. The assignments demonstrate the application of various machine learning techniques such as clustering, classification, regression, and neural networks. The project files and the complete matlab codes can be found in the projectFiles folder.
 
 ---
 
